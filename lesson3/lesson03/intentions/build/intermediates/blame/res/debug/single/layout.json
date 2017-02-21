@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/victoria/Documents/tutorials/AndroidWorkshop/beginners-workshop/lesson3/lesson03/intentions/build/intermediates/res/merged/debug/layout/activity_second.xml",
+        "source": "/home/victoria/Documents/tutorials/AndroidWorkshop/beginners-workshop/lesson3/lesson03/intentions/src/main/res/layout/activity_second.xml"
+    },
+    {
+        "merged": "/home/victoria/Documents/tutorials/AndroidWorkshop/beginners-workshop/lesson3/lesson03/intentions/build/intermediates/res/merged/debug/layout/activity_first.xml",
+        "source": "/home/victoria/Documents/tutorials/AndroidWorkshop/beginners-workshop/lesson3/lesson03/intentions/src/main/res/layout/activity_first.xml"
+    }
+]
