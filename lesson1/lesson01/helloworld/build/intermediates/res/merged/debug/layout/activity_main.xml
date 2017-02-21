@@ -1,0 +1,27 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/background">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="This is the 2nd text"
+        android:id="@+id/textView"
+        android:textColor="#B20"
+        android:textAllCaps="true"
+        android:textDirection="ltr"
+        android:elegantTextHeight="true"
+        android:textSize="60sp" />
+
+    <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/app_name"
+            android:gravity="center"
+        android:textSize="70sp" />
+
+
+
+</LinearLayout>

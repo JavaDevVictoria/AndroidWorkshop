@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/victoria/Documents/tutorials/AndroidWorkshop/beginners-workshop/lesson1/lesson01/helloworld/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "/home/victoria/Documents/tutorials/AndroidWorkshop/beginners-workshop/lesson1/lesson01/helloworld/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 49,
+                        "endOffset": 101
+                    }
+                }
+            }
+        ]
+    }
+]
